@@ -1,10 +1,10 @@
 import React from 'react';
 
 const images = [
-  { src: '/foto-1.JPG', alt: 'foto1' },
-  { src: '/foto-2.JPG', alt: 'foto2' },
-  { src: '/foto-3.JPG', alt: 'foto3' },
-  { src: '/foto-4.JPG', alt: 'foto4' },
+  { src: process.env.PUBLIC_URL + '/foto1.jpg', alt: 'foto1' },
+  { src: process.env.PUBLIC_URL + '/foto2.jpg', alt: 'foto2' },
+  { src: process.env.PUBLIC_URL + '/foto3.jpg', alt: 'foto3' },
+  { src: process.env.PUBLIC_URL + '/foto4.jpg', alt: 'foto4' },
 ];
 
 function Gallery() {
