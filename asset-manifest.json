@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/flores-anahi/static/css/main.5b75e21e.css",
-    "main.js": "/flores-anahi/static/js/main.714f495f.js",
+    "main.js": "/flores-anahi/static/js/main.a24968a6.js",
     "static/js/453.81358fb5.chunk.js": "/flores-anahi/static/js/453.81358fb5.chunk.js",
     "index.html": "/flores-anahi/index.html",
     "main.5b75e21e.css.map": "/flores-anahi/static/css/main.5b75e21e.css.map",
-    "main.714f495f.js.map": "/flores-anahi/static/js/main.714f495f.js.map",
+    "main.a24968a6.js.map": "/flores-anahi/static/js/main.a24968a6.js.map",
     "453.81358fb5.chunk.js.map": "/flores-anahi/static/js/453.81358fb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b75e21e.css",
-    "static/js/main.714f495f.js"
+    "static/js/main.a24968a6.js"
   ]
 }
