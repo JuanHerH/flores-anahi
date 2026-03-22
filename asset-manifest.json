@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flores-anahi/static/css/main.1da9933a.css",
+    "main.js": "/flores-anahi/static/js/main.832258f2.js",
+    "static/js/453.81358fb5.chunk.js": "/flores-anahi/static/js/453.81358fb5.chunk.js",
+    "index.html": "/flores-anahi/index.html",
+    "main.1da9933a.css.map": "/flores-anahi/static/css/main.1da9933a.css.map",
+    "main.832258f2.js.map": "/flores-anahi/static/js/main.832258f2.js.map",
+    "453.81358fb5.chunk.js.map": "/flores-anahi/static/js/453.81358fb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da9933a.css",
+    "static/js/main.832258f2.js"
+  ]
+}
